@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="path-to-your-image.png" alt="GitHub Profile Header Image">
+  <img src="https://files.oaiusercontent.com/file-d2BeNEFlKpGILX6TxjmM9Zfz?se=2024-08-26T15%3A15%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D742061c3-c197-412f-9fd3-80d6edad5bd1.webp&sig=u37%2B2IJatL0tIon4gTCQVMGxPqXir/6SF2mOcszHPJg%3D" alt="GitHub Profile Header Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anish Marade</h1>
