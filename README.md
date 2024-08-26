@@ -13,10 +13,18 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, C, SQL, JavaScript, HTML/CSS
-- **Frameworks & Tools:** React, Node.js, Express, Flask, Django
-- **Cloud Platforms:** AWS, Google Cloud
-- **Databases:** MySQL, PostgreSQL, MongoDB
+
+#### 🚀 Programming Languages:
+- Python, C, SQL, JavaScript, HTML/CSS
+
+#### ⚙️ Frameworks & Tools:
+- React, Node.js, Express, Flask, Django
+
+#### ☁️ Cloud Platforms:
+- AWS, Google Cloud Platform
+
+#### 🗄️ Databases:
+- MySQL, PostgreSQL, MongoDB
 
 ---
 
