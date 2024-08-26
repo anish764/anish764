@@ -9,7 +9,7 @@
 ---
 
 - 🎓 **Bachelor of Information Technology** | Vidyalankar Institute of Technology, Mumbai University
-- 🚀 **Currently focusing on:** Data Structures, Database Management Systems, Web Development
+- 🚀 **Currently focusing on:** Data Science
 - 📖 **Research:** Published a paper on *Enhancing the Campbell Oblinger Model in Generative AI*
 - 💡 **Exploring:** Machine Learning techniques and real-world applications
 - 🔭 **Internships:** Worked at Sunalco Alloys Pvt. Ltd. and Blue Star Limited, focusing on machine learning, Python, databases, and network administration
@@ -40,14 +40,3 @@
 
 ---
 
-### 🔥 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Anish's GitHub Stats" />
-</p>
-
----
-
-### 📊 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Anish's Most Used Languages" />
-</p>
