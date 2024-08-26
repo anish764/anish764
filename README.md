@@ -1,3 +1,8 @@
+<!-- Header Image -->
+<p align="center">
+  <img src="path-to-your-image.png" alt="GitHub Profile Header Image">
+</p>
+
 <h1 align="center">Hi 👋, I'm Anish Marade</h1>
 <h3 align="center">Aspiring IT Engineer with a passion for creating innovative solutions through technology, coding, and research.</h3>
 
