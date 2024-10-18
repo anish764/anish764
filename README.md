@@ -1,42 +1,39 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="[[https://files.oaiusercontent.com/file-d2BeNEFlKpGILX6TxjmM9Zfz?se=2024-08-26T15%3A15%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D742061c3-c197-412f-9fd3-80d6edad5bd1.webp&sig=u37%2B2IJatL0tIon4gTCQVMGxPqXir/6SF2mOcszHPJg%3D]](https://camo.githubusercontent.com/4c2034f05e9401dd378444ddf4d41faa4064faffbb6d761e7ceee24eadf7aa12/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkshivakumar27&psig=AOvVaw34QYXLhYX17TModZ2f9Yq9&ust=1724772049665000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjs_uH6kogDFQAAAAAdAAAAABAE)" alt="GitHub Profile Header Image">
-</p>
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+<h1 align="center">Hi 👋 Myself Anish Marade</h1>
+<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from VIT Mumbai 🎓 I am an a cloud and DevOps enthusiast & also passionate about Cloud-native things 💻 </h3>
 
-<h1 align="center">Hi 👋, I'm Anish Marade</h1>
-<h3 align="center">Aspiring IT Engineer with a passion for creating innovative solutions through technology, coding, and research.</h3>
+- 🌱 Learning **Golang** & Exploring the **Cloud-Native** Ecosystem
 
----
 
-- 🎓 **Bachelor of Information Technology** | Vidyalankar Institute of Technology, Mumbai University
-- 🚀 **Currently focusing on:** Data Science
-- 📖 **Research:** Published a paper on *Enhancing the Campbell Oblinger Model in Generative AI*
-- 💡 **Exploring:** Machine Learning techniques and real-world applications
-- 🔭 **Internships:** Worked at Sunalco Alloys Pvt. Ltd. and Blue Star Limited, focusing on machine learning, Python, databases, and network administration
-- 🏆 **Certifications:** Data Science, Cloud Computing (AWS), Machine Learning, Full Stack Development (Stanford, IBM, AWS, John Hopkins)
+<h3 align="left">Connect with me:</h3>
 
----
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Anish764)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-marade/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anishmarade.hashnode.dev/)
 
-### 🛠️ Tech Stack:
 
-#### 🚀 Programming Languages:
-- Python, C, SQL, JavaScript, HTML/CSS
 
-#### ⚙️ Frameworks & Tools:
-- React, Node.js, Express, Flask, Django
 
-#### ☁️ Cloud Platforms:
-- AWS, Google Cloud Platform
+</br></br>
 
-#### 🗄️ Databases:
-- MySQL, PostgreSQL, MongoDB
+</br>
 
----
-
-### 🌍 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anish-marade-33524b286/)](https://www.linkedin.com/in/anish-marade-33524b286/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:anishmarade3364@gmail.com)](mailto:anishmarade3364@gmail.com)
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.cncf.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cncfio/cncfio-icon.svg" alt="cncf" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/a/19/aws.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="70" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>     
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+  
 
