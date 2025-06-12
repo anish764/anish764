@@ -2,9 +2,9 @@
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
 <h1 align="center">Hi 👋 Myself Anish Marade</h1>
-<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from VIT Mumbai 🎓 I am an a cloud and DevOps enthusiast & also passionate about Cloud-native things 💻 </h3>
+<h3 align="center">I am a junior pursuing my Bachelor's in Information Technology from VIT Mumbai 🎓 I am an a Data Science/Analyst and DevOps enthusiast & also passionate about Cloud-native things 💻 </h3>
 
-- 🌱 Learning **Golang** & Exploring the **Cloud-Native** Ecosystem
+- 🌱 Learning **Golang** & Exploring the **Cloud-Native and ML** Ecosystem
 
 
 <h3 align="left">Connect with me:</h3>
